@@ -8,12 +8,7 @@ title = "Auto cars | cars detailed "
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-hasChildren = true
-name = "Homepage"
-url = ""
-weight = 1
-[[menu.main]]
-name = "Homepage 1"
+name = "Home"
 parent = "Homepage"
 url = "homepage/home-1/"
 [[menu.main]]
